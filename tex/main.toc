@@ -1,0 +1,10 @@
+\babel@toc {czech}{}\relax 
+\contentsline {chapter}{\numberline {1}Úvod}{7}{}%
+\contentsline {section}{\numberline {1.1}Introduction to Bifurcation in Ordinary Differential Equations}{7}{}%
+\contentsline {section}{\numberline {1.2}Motivation and Importance}{7}{}%
+\contentsline {section}{\numberline {1.3}Scope of Study}{7}{}%
+\contentsline {section}{\numberline {1.4}Historical Context}{8}{}%
+\contentsline {section}{\numberline {1.5}Methodology}{8}{}%
+\contentsline {section}{\numberline {1.6}Structure of the Thesis}{8}{}%
+\contentsline {section}{\numberline {1.7}Significance}{9}{}%
+\contentsline {chapter}{\numberline {A}Code}{11}{}%

@@ -1,0 +1,727 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.22)  15 DEC 2024 14:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-04-20>
+(c:/texlive/2023/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(c:/texlive/2023/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\skip48
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen140
+)
+(c:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2023/04/18 3.88 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen141
+\l@unhyphenated=\language87
+
+(c:/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+(c:/texlive/2023/texmf-dist/tex/generic/babel-czech/czech.ldf
+Language: czech 2008/07/06 v3.1a Czech support from the babel system
+Package babel Info: Making " an active character on input line 172.
+\cs@wordlen=\count196
+Package babel Info: Making - an active character on input line 226.
+))
+(c:/texlive/2023/texmf-dist/tex/generic/babel/locale/cs/babel-czech.tex
+Package babel Info: Importing font and identification data for czech
+(babel)             from babel-cs.ini. Reported on input line 11.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen142
+))
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count268
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count269
+\dotsspace@=\muskip16
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks19
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks20
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(c:/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip54
+\bibsep=\skip55
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count275
+)
+(c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count276
+\Gm@cntv=\count277
+\c@Gm@tempcnt=\count278
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks24
+)
+(c:/texlive/2023/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks25
+\AP@partial=\box53
+\AP@footins=\box54
+)
+(c:/texlive/2023/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 19
+.
+
+(c:/texlive/2023/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count279
+\l__pdf_internal_box=\box55
+)
+(./main.aux (./ch_uvod.aux) (./appendix.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+(c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count280
+\scratchdimen=\dimen161
+\scratchbox=\box56
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen162
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks27
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.70166pt, 418.25368pt, 107.55254pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=-0.56833pt
+* \evensidemargin=35.28255pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=85.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(99.58464pt, 441.01773pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=702.78308pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=85.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
+
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
+texmf-dist/fonts/enc/dvips/base/8r.enc}] [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+(./main.toc
+Overfull \hbox (9.58218pt too wide) in paragraph at lines 3--3
+ [][] []\T1/pcr/m/n/12 Introduction to Bifurcation in Ordinary Differential 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4
+
+]
+(./main.lof)
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+\openout2 = `ch_uvod.aux'.
+
+
+(./ch_uvod.tex
+Kapitola 1.
+
+Overfull \hbox (11.71811pt too wide) in paragraph at lines 3--3
+[]\T1/pcr/b/n/17.28 Introduction to Bifurcation in Ordinary
+ []
+
+
+Overfull \hbox (34.18207pt too wide) in paragraph at lines 5--6
+\T1/pcr/m/n/12 The study of bifurcation in ordinary differential equations (ODE
+s)
+ []
+
+
+Overfull \hbox (12.58208pt too wide) in paragraph at lines 5--6
+\T1/pcr/m/n/12 is a cornerstone of dynamical systems theory, offering profound
+ []
+
+
+Overfull \hbox (62.98206pt too wide) in paragraph at lines 5--6
+\T1/pcr/m/n/12 insights into the qualitative changes in system behavior as para
+meters
+ []
+
+
+Overfull \hbox (48.58206pt too wide) in paragraph at lines 5--6
+\T1/pcr/m/n/12 vary. A bifurcation occurs when a small, smooth change in a syst
+em's
+ []
+
+
+Overfull \hbox (5.38208pt too wide) in paragraph at lines 5--6
+\T1/pcr/m/n/12 parameters leads to a sudden and qualitative transformation in
+ []
+
+
+Overfull \hbox (48.58206pt too wide) in paragraph at lines 5--6
+\T1/pcr/m/n/12 its long-term behavior. This phenomenon is pivotal for understan
+ding
+ []
+
+
+Overfull \hbox (5.38208pt too wide) in paragraph at lines 5--6
+\T1/pcr/m/n/12 complex dynamics in fields ranging from physics and biology to
+ []
+
+
+Overfull \hbox (26.98207pt too wide) in paragraph at lines 9--10
+\T1/pcr/m/n/12 Bifurcation theory provides a framework for analyzing how system
+s
+ []
+
+
+Overfull \hbox (55.78206pt too wide) in paragraph at lines 9--10
+\T1/pcr/m/n/12 transition between different states, such as stability to instab
+ility
+ []
+
+
+Overfull \hbox (5.38208pt too wide) in paragraph at lines 9--10
+\T1/pcr/m/n/12 or periodic to chaotic behavior. For example, it helps explain
+ []
+
+
+Overfull \hbox (48.58206pt too wide) in paragraph at lines 9--10
+\T1/pcr/m/n/12 phenomena like the onset of turbulence in fluid dynamics, popula
+tion
+ []
+
+
+Overfull \hbox (77.38205pt too wide) in paragraph at lines 9--10
+\T1/pcr/m/n/12 dynamics in ecology, or even market crashes in economics. By ide
+ntifying
+ []
+
+
+Overfull \hbox (5.38208pt too wide) in paragraph at lines 9--10
+\T1/pcr/m/n/12 critical parameter values^^Vbifurcation points^^Vresearchers can
+
+ []
+
+
+Overfull \hbox (34.18207pt too wide) in paragraph at lines 9--10
+\T1/pcr/m/n/12 predict and control these transitions, making bifurcation analys
+is
+ []
+
+
+Overfull \hbox (19.78207pt too wide) in paragraph at lines 9--10
+\T1/pcr/m/n/12 an essential tool for both theoretical exploration and practical
+
+ []
+
+
+Overfull \hbox (5.38208pt too wide) in paragraph at lines 13--14
+\T1/pcr/m/n/12 This thesis focuses on bifurcations in the context of ordinary
+ []
+
+
+Overfull \hbox (41.38206pt too wide) in paragraph at lines 13--14
+\T1/pcr/m/n/12 differential equations, particularly nonlinear systems. The prim
+ary
+ []
+
+
+Overfull \hbox (62.98206pt too wide) in paragraph at lines 13--14
+\T1/pcr/m/n/12 aim is to explore the mathematical structures underlying bifurca
+tions,
+ []
+
+
+Overfull \hbox (12.58208pt too wide) in paragraph at lines 13--14
+\T1/pcr/m/n/12 classify their types, and analyze their implications for system
+ []
+
+[7
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 1
+6.
+ (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pcr.fd
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+)
+Overfull \hbox (41.95677pt too wide) in paragraph at lines 16--17
+[]\T1/pcr/m/n/12 Types of Bifurcations: Common bifurcations such as saddle-node
+,
+ []
+
+
+Overfull \hbox (27.55678pt too wide) in paragraph at lines 16--17
+\T1/pcr/m/n/12 transcritical, pitchfork (supercritical and subcritical), and
+ []
+
+
+Overfull \hbox (5.95679pt too wide) in paragraph at lines 16--17
+\T1/pcr/m/n/12 Hopf bifurcations will be examined. Each type represents a
+ []
+
+
+Overfull \hbox (63.55676pt too wide) in paragraph at lines 16--17
+\T1/pcr/m/n/12 distinct mechanism by which system behavior changes qualitativel
+y. 
+ []
+
+
+Overfull \hbox (41.95677pt too wide) in paragraph at lines 17--18
+[]\T1/pcr/m/n/12 Analytical Techniques: Methods for detecting and characterizin
+g
+ []
+
+
+Overfull \hbox (34.75677pt too wide) in paragraph at lines 17--18
+\T1/pcr/m/n/12 bifurcations, including stability analysis through eigenvalues
+ []
+
+
+Overfull \hbox (49.15677pt too wide) in paragraph at lines 17--18
+\T1/pcr/m/n/12 of the Jacobian matrix and graphical approaches like bifurcation
+
+ []
+
+
+Overfull \hbox (5.95679pt too wide) in paragraph at lines 18--19
+[]\T1/pcr/m/n/12 Applications: Real-world examples where bifurcation theory
+ []
+
+
+Overfull \hbox (20.35678pt too wide) in paragraph at lines 18--19
+\T1/pcr/m/n/12 provides critical insights into phenomena such as biological
+ []
+
+
+Overfull \hbox (41.95677pt too wide) in paragraph at lines 18--19
+\T1/pcr/m/n/12 pattern formation, mechanical vibrations, or electrical circuit
+ []
+
+
+Overfull \hbox (26.98207pt too wide) in paragraph at lines 24--25
+\T1/pcr/m/n/12 The concept of bifurcation was first introduced by Henri Poincar
+é
+ []
+
+
+Overfull \hbox (5.38208pt too wide) in paragraph at lines 24--25
+\T1/pcr/m/n/12 in 1885 during his pioneering work on dynamical systems. Since
+ []
+
+
+Overfull \hbox (34.18207pt too wide) in paragraph at lines 24--25
+\T1/pcr/m/n/12 then, it has evolved into a comprehensive mathematical theory wi
+th
+ []
+
+
+Overfull \hbox (12.58208pt too wide) in paragraph at lines 24--25
+\T1/pcr/m/n/12 significant contributions from researchers like Andronov, Hopf,
+ []
+
+
+Overfull \hbox (5.38208pt too wide) in paragraph at lines 24--25
+\T1/pcr/m/n/12 and Smale. Modern advancements have extended its applicability
+ []
+
+
+Overfull \hbox (91.78204pt too wide) in paragraph at lines 28--29
+\T1/pcr/m/n/12 The thesis employs a combination of theoretical analysis and com
+putational
+ []
+
+
+Overfull \hbox (19.78207pt too wide) in paragraph at lines 28--29
+\T1/pcr/m/n/12 simulations to investigate bifurcations. Analytical methods will
+
+ []
+
+
+Overfull \hbox (19.78207pt too wide) in paragraph at lines 28--29
+\T1/pcr/m/n/12 be used to derive conditions for the occurrence of bifurcations,
+
+ []
+
+
+Overfull \hbox (34.18207pt too wide) in paragraph at lines 28--29
+\T1/pcr/m/n/12 while numerical tools will aid in visualizing bifurcation diagra
+ms
+ []
+
+
+Overfull \hbox (5.95679pt too wide) in paragraph at lines 32--33
+[]\T1/pcr/m/n/12 Fundamentals of Bifurcation Theory: An introduction to key
+ []
+
+
+Overfull \hbox (63.55676pt too wide) in paragraph at lines 32--33
+\T1/pcr/m/n/12 concepts, including definitions, classifications, and mathematic
+al
+ []
+
+
+Overfull \hbox (56.35677pt too wide) in paragraph at lines 33--34
+[]\T1/pcr/m/n/12 Classic Examples: Detailed exploration of well-known bifurcati
+ons
+ []
+
+
+Overfull \hbox (5.95679pt too wide) in paragraph at lines 34--35
+[]\T1/pcr/m/n/12 Advanced Topics: Discussion on higher-dimensional systems,
+ []
+
+
+Overfull \hbox (49.15677pt too wide) in paragraph at lines 35--36
+[]\T1/pcr/m/n/12 Applications: Case studies demonstrating the practical relevan
+ce
+ []
+
+[8]
+Overfull \hbox (20.35678pt too wide) in paragraph at lines 36--37
+[]\T1/pcr/m/n/12 Conclusion: Summary of findings and potential directions for
+ []
+
+
+Overfull \hbox (55.78206pt too wide) in paragraph at lines 42--43
+\T1/pcr/m/n/12 Understanding bifurcations in ODEs not only deepens our comprehe
+nsion
+ []
+
+
+Overfull \hbox (5.38208pt too wide) in paragraph at lines 42--43
+\T1/pcr/m/n/12 of nonlinear dynamics but also equips us with tools to predict
+ []
+
+
+Overfull \hbox (12.58208pt too wide) in paragraph at lines 42--43
+\T1/pcr/m/n/12 and manage critical transitions in diverse systems. This thesis
+ []
+
+
+Overfull \hbox (19.78207pt too wide) in paragraph at lines 42--43
+\T1/pcr/m/n/12 aims to contribute to this understanding by providing a detailed
+
+ []
+
+
+Overfull \hbox (77.38205pt too wide) in paragraph at lines 42--43
+\T1/pcr/m/n/12 exploration of the mathematical underpinnings and practical impl
+ications
+ []
+
+)
+Overfull \hbox (66.20688pt too wide) in paragraph at lines 44--89
+[]\T1/pcr/m/n/12 Through this study, we hope to shed light on the intricate int
+erplay
+ []
+
+
+Overfull \hbox (5.38208pt too wide) in paragraph at lines 44--89
+\T1/pcr/m/n/12 between parameters and system behavior, offering insights that
+ []
+
+[9] [10
+
+
+]
+\openout2 = `appendix.aux'.
+
+ (./appendix.tex
+P\v {r}\'{\i }loha A.
+) [11
+
+
+] (./main.bbl
+LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <12> not available
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+[]\T1/pcr/m/n/12 Eric Benoît.  \T1/pcr/m/sl/12 Dynamic bifurcations: proceeding
+s of a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+\T1/pcr/m/sl/12 conference held in Luminy, France, March 5-10, 1990\T1/pcr/m/n/
+12 .
+ []
+
+) [12
+
+
+
+] (./main.aux (./ch_uvod.aux) (./appendix.aux)) ) 
+Here is how much of TeX's memory you used:
+ 5072 strings out of 476001
+ 76765 string characters out of 5793197
+ 1863068 words of memory out of 5000000
+ 25461 multiletter control sequences out of 15000+600000
+ 526661 words of font info for 82 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,10n,62p,603b,299s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texli
+ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/te
+xmf-dist/fonts/type1/urw/courier/ucrb8a.pfb><c:/texlive/2023/texmf-dist/fonts/t
+ype1/urw/courier/ucrr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/courier
+/ucrro8a.pfb>
+Output written on main.pdf (12 pages, 121172 bytes).
+PDF statistics:
+ 94 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

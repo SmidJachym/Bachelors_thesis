@@ -1,0 +1,103 @@
+\documentclass[12pt,a4paper, fleqn, twoside]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{geometry}
+\usepackage{afterpage}
+\usepackage{courier}
+\renewcommand*\familydefault{\ttdefault}
+\date{}
+\title{\textbf{Bifurkace v obyčejných diferenciálních rovnicích}\\[2ex]\large{Ústav technické matematiky\\ FS ČVUT v Praze}}
+\author{Jáchym Šmíd}
+
+
+\begin{document}
+
+%---------------------------- styling-------------------------
+\newgeometry{
+	left=3.5cm,
+	right=2cm,
+	top=2.5cm,
+	bottom=2.5cm
+}
+\setlength{\mathindent}{15pt}
+\pagestyle{headings}
+\newcommand\myemptypage{
+    \null
+    \thispagestyle{empty}
+    \newpage
+    }
+\setlength{\parskip}{0.5em}
+    
+%------------------------------------------------------------
+
+\maketitle
+\thispagestyle{empty}
+\pagebreak
+
+\myemptypage
+
+\thispagestyle{empty}
+\section*{Anotace}
+moje super anotace
+\section*{Anotation}
+my awesome anotation
+\section*{Klíčová slova}
+sjdls, sdjvlsd, lksdlv, lksda
+\section*{Keywords}	
+sův, kslr, jada.jda
+\section*{Poděkování}
+Moc děkuji Váam
+\pagebreak
+
+\thispagestyle{empty}
+\tableofcontents
+\pagebreak
+
+\thispagestyle{empty}
+\listoffigures
+\pagebreak
+
+\thispagestyle{empty}
+
+\section*{Přehled použitých značek}
+\begin{align*}
+q_A & - \text{tepelný tok } & [q_A] = W\cdot m^{-2}\\
+k & - \text{součinitel kondukce} & [k] = W\cdot m^{-1}\cdot K^{-1}\\
+\nabla & - \text{gradient, definován jako}\ \nabla = \displaystyle\left(\frac{\partial}{\partial x};\frac{\partial}{\partial y};\frac{\partial}{\partial x}\right) & [\nabla] = m^{-1}\\
+T & - \text{aboslutní teplota} & [T] = K\\
+v_{\infty} & - \text{rychlost náběhu} & [v_{\infty}] = m\cdot s^{-1}\\
+c & - \text{rychlost} & [c] = m\cdot s^{-1}\\
+u & - \text{měrná vnitřní energie} & [u] = J\cdot kg^{-1} \cdot K^{-1}\\
+h & - \text{měrná entalpie} & [h] = J\cdot kg^{-1} \cdot K^{-1}\\
+p & - \text{tlak} & [p] = N\cdot m^{-2}\\
+g & - \text{gravitační zrychlení},\ g \approx 9.81 & [g] = m \cdot s^{-2}\\
+P & - \text{výkon} & [P] = W\\ 
+W & - \text{práce} & [W] = J\\
+Q & - \text{teplo} & [Q] = J\\
+q & - \text{měrné teplo} & [q] = J \cdot kg^{-1}\\
+\end{align*}
+
+\pagebreak
+
+
+\include{ch_uvod.tex}
+
+\[
+\iint_{\Omega}u(x,y,t)d\Omega = C
+\]
+slkjsi \cite{benoit2006dynamic}
+
+
+\appendix
+\include{appendix.tex}
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}
